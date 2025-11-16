@@ -6,10 +6,10 @@ Este repositório contém os arquivos SQL desenvolvidos para a Experiência Prá
 
 Projeto Clinica PetCare  
 📄 01_create_tables.sql... Criação das tabelas  
-📄 02_insert_data.sql.....  Inserts de dados  
+📄 02_insert_data.sql....... Inserts de dados  
 📄 03_select_queries.sql.. Consultas SQL  
-📄 04_update_delete.sql... Updates e Deletes  
-🗄️ clinicapetcare.sql....... Backup completo do banco
+📄 04_update_delete.sql.... Updates e Deletes  
+🗄️ clinicapetcare.sql........... Backup completo do banco
 
 ## Descrição dos Arquivos
 
